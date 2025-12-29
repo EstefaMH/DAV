@@ -1,0 +1,11 @@
+
+[project]
+name = "proyectoGenerado"
+version = "0.1.0"
+description = "Proyecto generado automáticamente"
+authors = [{ name = "Estefania" }]
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+    
